@@ -6,7 +6,7 @@ function Hero() {
     <div className="hero">
     <h1>Personal Budget</h1>
     <h2>Track, manage, and control your finances</h2>
-    <button className="cta-btn">Get Started</button>
+    {/* <button className="cta-btn">Get Started</button> */}
 </div>
   );
 }
